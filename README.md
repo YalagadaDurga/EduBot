@@ -34,7 +34,7 @@ EduBot is an AI-powered chatbot designed to assist students, educators, and admi
 Launch the chatbot in your browser.
 
 <p align="center">Ask questions like:</p>
-<ul align="center">
+<ul>
   <li>"What courses are available?"</li>
   <li>"How can I apply for admission?"</li>
   <li>"What is the fee structure?"</li>
